@@ -13246,5 +13246,29 @@
     "start_date_local": "2026-02-17T16:43:28Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-02-18",
+    "distance": 45032.7,
+    "elevation_gain": 6140.8,
+    "id": "17443616873",
+    "moving_time": 10227.0,
+    "raw_activity_type": "Snowboard",
+    "raw_type": "Snowboard",
+    "start_date_local": "2026-02-18T08:22:44Z",
+    "type": "Snowboard",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-18",
+    "distance": 6341.1,
+    "elevation_gain": 90.6,
+    "id": "17444384823",
+    "moving_time": 2024.0,
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-18T13:43:50Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
