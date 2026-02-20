@@ -13270,5 +13270,29 @@
     "start_date_local": "2026-02-18T13:43:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-02-19",
+    "distance": 47801.5,
+    "elevation_gain": 119.0,
+    "id": "17455685645",
+    "moving_time": 8218.0,
+    "raw_activity_type": "Snowboard",
+    "raw_type": "Snowboard",
+    "start_date_local": "2026-02-19T09:54:58Z",
+    "type": "Snowboard",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-19",
+    "distance": 4930.8,
+    "elevation_gain": 62.0,
+    "id": "17456210397",
+    "moving_time": 1598.0,
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-02-19T15:40:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
