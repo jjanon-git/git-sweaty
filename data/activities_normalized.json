@@ -13294,5 +13294,17 @@
     "start_date_local": "2026-02-19T15:40:17Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-02-20",
+    "distance": 8413.3,
+    "elevation_gain": 19.4,
+    "id": "17463939621",
+    "moving_time": 1314.0,
+    "raw_activity_type": "Snowboard",
+    "raw_type": "Snowboard",
+    "start_date_local": "2026-02-20T09:18:36Z",
+    "type": "Snowboard",
+    "year": 2026
   }
 ]
