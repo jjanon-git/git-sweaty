@@ -7874,6 +7874,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-03-15",
+      "hour": 15,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -17712,6 +17719,15 @@
           "distance": 32192.8,
           "elevation_gain": 178.0,
           "moving_time": 10340.0
+        },
+        "2026-03-15": {
+          "activity_ids": [
+            "17737229512"
+          ],
+          "count": 1,
+          "distance": 4949.3,
+          "elevation_gain": 27.0,
+          "moving_time": 1587.0
         }
       },
       "Snowboard": {
@@ -17811,7 +17827,7 @@
       }
     }
   },
-  "generated_at": "2026-03-15T15:23:30.868056+00:00",
+  "generated_at": "2026-03-16T16:00:25.648516+00:00",
   "other_bucket": "OtherSports",
   "source": "strava",
   "type_meta": {
