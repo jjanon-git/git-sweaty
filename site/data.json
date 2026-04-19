@@ -8021,6 +8021,13 @@
       "subtype": "TrailRun",
       "type": "TrailRun",
       "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 11,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18030,6 +18037,15 @@
           "distance": 42289.0,
           "elevation_gain": 170.0,
           "moving_time": 10878.0
+        },
+        "2026-04-18": {
+          "activity_ids": [
+            "18162608697"
+          ],
+          "count": 1,
+          "distance": 6369.9,
+          "elevation_gain": 37.0,
+          "moving_time": 1943.0
         }
       },
       "Snowboard": {
@@ -18147,7 +18163,7 @@
       }
     }
   },
-  "generated_at": "2026-04-18T15:32:49.582282+00:00",
+  "generated_at": "2026-04-19T15:32:32.909507+00:00",
   "other_bucket": "OtherSports",
   "source": "strava",
   "type_meta": {
