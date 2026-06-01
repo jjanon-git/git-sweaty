@@ -8224,6 +8224,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-05-31",
+      "hour": 8,
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18601,11 +18608,20 @@
           "distance": 18515.5,
           "elevation_gain": 557.0,
           "moving_time": 7338.0
+        },
+        "2026-05-31": {
+          "activity_ids": [
+            "18733504145"
+          ],
+          "count": 1,
+          "distance": 21999.7,
+          "elevation_gain": 1777.0,
+          "moving_time": 11959.0
         }
       }
     }
   },
-  "generated_at": "2026-05-31T16:01:21.563738+00:00",
+  "generated_at": "2026-06-01T19:53:31.930783+00:00",
   "other_bucket": "OtherSports",
   "source": "strava",
   "type_meta": {
