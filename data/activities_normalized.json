@@ -14530,5 +14530,17 @@
     "start_date_local": "2026-07-19T10:34:49Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-07-22",
+    "distance": 9462.9,
+    "elevation_gain": 48.0,
+    "id": "19417145157",
+    "moving_time": 2957.0,
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-22T07:38:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
