@@ -8588,6 +8588,13 @@
       "subtype": "Hike",
       "type": "Hike",
       "year": 2026
+    },
+    {
+      "date": "2026-08-22",
+      "hour": 17,
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -19433,11 +19440,20 @@
           "distance": 22018.9,
           "elevation_gain": 1741.0,
           "moving_time": 13623.0
+        },
+        "2026-08-22": {
+          "activity_ids": [
+            "19852893450"
+          ],
+          "count": 1,
+          "distance": 5383.9,
+          "elevation_gain": 28.0,
+          "moving_time": 1799.0
         }
       }
     }
   },
-  "generated_at": "2026-08-22T15:13:46.907398+00:00",
+  "generated_at": "2026-08-23T15:14:59.557522+00:00",
   "other_bucket": "OtherSports",
   "source": "strava",
   "type_meta": {
