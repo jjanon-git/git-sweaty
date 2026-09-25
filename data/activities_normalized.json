@@ -14818,5 +14818,41 @@
     "start_date_local": "2026-09-22T17:57:07Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-25",
+    "distance": 4685.8,
+    "elevation_gain": 0.0,
+    "id": "20324788235",
+    "moving_time": 3491.0,
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-25T19:15:16Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-25",
+    "distance": 1091.5,
+    "elevation_gain": 0.0,
+    "id": "20325025550",
+    "moving_time": 828.0,
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-25T20:25:03Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-25",
+    "distance": 1267.3,
+    "elevation_gain": 0.0,
+    "id": "20325291556",
+    "moving_time": 966.0,
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-25T20:43:18Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]

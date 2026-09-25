@@ -8644,6 +8644,27 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-09-25",
+      "hour": 19,
+      "subtype": "Workout",
+      "type": "Workout",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-25",
+      "hour": 20,
+      "subtype": "Workout",
+      "type": "Workout",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-25",
+      "hour": 20,
+      "subtype": "Workout",
+      "type": "Workout",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -19562,10 +19583,23 @@
           "elevation_gain": 758.0,
           "moving_time": 7906.0
         }
+      },
+      "Workout": {
+        "2026-09-25": {
+          "activity_ids": [
+            "20324788235",
+            "20325025550",
+            "20325291556"
+          ],
+          "count": 3,
+          "distance": 7044.6,
+          "elevation_gain": 0.0,
+          "moving_time": 5285.0
+        }
       }
     }
   },
-  "generated_at": "2026-09-24T18:46:39.934364+00:00",
+  "generated_at": "2026-09-25T19:04:26.889149+00:00",
   "other_bucket": "OtherSports",
   "source": "strava",
   "type_meta": {
