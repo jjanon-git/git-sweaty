@@ -14917,10 +14917,10 @@
   },
   {
     "date": "2026-10-10",
-    "distance": 9721.2,
-    "elevation_gain": 226.0,
+    "distance": 9709.2,
+    "elevation_gain": 240.8,
     "id": "20532167857",
-    "moving_time": 3336.0,
+    "moving_time": 3334.0,
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-10-10T10:40:04Z",

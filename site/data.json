@@ -19427,9 +19427,9 @@
             "20532167857"
           ],
           "count": 1,
-          "distance": 9721.2,
-          "elevation_gain": 226.0,
-          "moving_time": 3336.0
+          "distance": 9709.2,
+          "elevation_gain": 240.8,
+          "moving_time": 3334.0
         }
       },
       "Snowboard": {
@@ -19695,7 +19695,7 @@
       }
     }
   },
-  "generated_at": "2026-10-10T19:05:13.931311+00:00",
+  "generated_at": "2026-10-11T19:17:28.533152+00:00",
   "other_bucket": "OtherSports",
   "source": "strava",
   "type_meta": {
